@@ -19,11 +19,11 @@ When time runs out and/or all questions are answered, the user is presented with
 
 ## Images
 
-![password generator](insert path)
+![password generator](assets/images/codeQuiz.png)
 
 ## Links
 
-<insert link>
+https://drewhowell.github.io/codequiz/
 
 
 
