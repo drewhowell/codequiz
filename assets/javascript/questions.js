@@ -10,18 +10,18 @@ var questions = [
         answer: "parentheses"
     },
     {
-        title: "CSS controls which facet of webpages?",
-        choices: ["Local Storage", "Styling", "Information", "All of the above"],
-        answer: "Styling"
+        title: "Arrays in JavaScript can be used to store ____.",
+        choices: ["numbers & strings", "other arrays", "booleans", "all of the above"],
+        answer: "all of the above"
     },
     {
-        title: "How many columns are there on all webpages?",
-        choices: ["6", "15", "10", "12"],
-        answer: "12"
+        title: "String values must be enclosed within ____ when being assigned to variables.",
+        choices: ["commas", "curly brackets", "quotes", "parantheses"],
+        answer: "quotes"
     },
     {
-        title: "Bootstrap is a _______. ",
-        choices: ["CSS Framework", "shoe accessory", "leather strap", "boot holder"],
-        answer: "CSS Framework"
+        title: "A very useful tool used during development and debugging for printing content to the debugger is:",
+        choices: ["JavaScript", "terminal/bash", "for loops", "console.log"],
+        answer: "console.log"
     },
 ];
