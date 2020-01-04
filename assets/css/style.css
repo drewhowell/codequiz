@@ -1,0 +1,27 @@
+h2 {
+    text-align: center;
+}
+
+.navbar {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 100px;
+}
+
+.card {
+    text-align: center;
+}
+
+.btn {
+    background: #81f7ee;
+    border-color: #81f7ee;
+    color: black;
+}
+
+.viewhs {
+    text-align: left;
+}
+
+.time {
+    text-algin: right;
+}
