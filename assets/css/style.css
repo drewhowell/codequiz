@@ -1,27 +1,10 @@
-h2 {
-    text-align: center;
-}
-
-.navbar {
-    color: white;
-    font-size: 24px;
-    margin-bottom: 100px;
-}
-
-.card {
-    text-align: center;
-}
-
-.btn {
-    background: #81f7ee;
-    border-color: #81f7ee;
+button {
+    background: rgb(100, 238, 157);
     color: black;
+    padding: 10px;
+    margin: 10px;
 }
 
-.viewhs {
-    text-align: left;
-}
-
-.time {
-    text-algin: right;
+h1 {
+    font-size: 18px;
 }
