@@ -1,12 +1,12 @@
 # Code Quiz
 
 ## Purpose
-As I proceed in my career as a web developer, I will probably be asked to complete a coding assessment. These assessments are typically a combination of multiple-choice questions and interactive challenges. In this homework assignment, my challenge way to build a code quiz with multiple-choice questions.
+As I proceed in my career as a web developer, I will probably be asked to complete a coding assessment. These assessments are typically a combination of multiple-choice questions and interactive challenges. In this homework assignment, my challenge was to build a code quiz with multiple-choice questions.
 
 ## Description
-This application is timer-based quiz that stores high scores client-side. It is responsive
+This application is timer-based quiz that stores high scores client-side. It is responsive.
 
-The user arrives at the landing page and is presented with a call-to-action to "Start Quiz." Also note the navigation option to "View Highscores" and the "Time" value set at 0.
+The user arrives at the landing page and is presented with a call-to-action to "Start Quiz." Also note the navigation option to "View Highscores" and the "Time" value set at 75.
 
 
 Clicking the "Start Quiz" button presents the user with a series of questions. The timer is initialized with a value and immediately begins countdown.
